@@ -1,0 +1,14 @@
+{
+  "appname": "Ace Buyer Site",
+  "scope": "FullAccess",
+  "clientid": "62CD288B-F411-4829-AC7E-76F088DDCB10",
+  "buyerid": "Ace",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
